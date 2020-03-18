@@ -1,0 +1,190 @@
+body{margin:0px;paddding:0px;}
+
+
+.header-area{ 
+               background:#3c5a98;
+				padding:20px 0px;
+	
+}
+.middle-area {
+			width:80%;
+			margin:auto;
+			
+	
+	
+}
+
+.logo-area{ width:57%;
+			float:left;
+			margin-top: 7px;
+	
+}
+.logo-area a img {
+
+}
+
+
+
+.login-area{   width:40%;
+			    float:left;
+				display:block;
+		
+}
+	
+.login-frist{ float:left;
+	
+}
+.login-sec{
+		float:left;
+}	
+.login-submit{
+			float:left;		
+}
+.amader-login{float: left;}
+
+
+.header-area:after {
+				content: '';
+				display: block;
+                 clear: both;
+}	
+.login-area input{
+				display:block;
+				margin-right:8px;
+				
+}
+.login-area label{color:#fff;
+                font-size:14px;
+				
+}	
+.login-submit{ margin-top: -39px;
+    margin-left: 364px;
+}	
+.logim-sec a {margin-left: 188px;
+    color: #9cb4d8;
+    text-decoration: none;	
+}
+.logim-sec:hover{ text-decoration: underline;	}
+.left-side{
+	        color: #0e385f;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left:;
+    font-family: inherit;
+    font-weight: bold;
+    word-spacing:1px;
+	width: 40%;
+	margin-left: 106px;
+}
+.signup-area{
+	background:linear-gradient(#fff, #D4D9E8);
+	 height: 300%;
+      width: 100%;
+}
+
+.signup-area:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+.left-side{ width:44%;
+float:left;
+
+	
+}
+.right-side{ width: 45%;
+float:left; 
+margin-left:32px;			
+}
+.right-side h1 {
+	    font-size: 36px;
+    font-family: arial;
+    color: #333;
+	margin-bottom: -10px;
+}
+.right-side h4 {
+	font-size: 19px;
+    font-family: arial;
+    color: #1d2129;
+	font-weight: normal;
+	margin-top: 17px;
+}
+
+.right-side input.email{ 
+  padding: 7px 48px;
+    text-align: center;
+    width: 377px;
+	
+}
+.right-side input.pass{ 
+        padding: 7px 48px;
+    text-align: center;
+    width: 377px;
+	
+}
+.right-side input{background:#ffffff;
+				 text-decoration:bold;
+				 font-size:20px;
+				    padding: 8px ;
+					text-align:center;
+					margin: 10px 5px;
+				border: 1px solid #bdc7d8;
+				border-radius:8px;
+}
+
+.brithday-nelam p{ color:#90949c;
+	font-size: 22px;
+	margin-top:4px;
+     margin-bottom: 10px;
+}
+
+.brithday-nelam select{
+	    font-size: 18px;
+    margin-left: 4px;
+
+}
+
+.gender-nelam h4{
+	color:#90949c;
+	font-size: 20px;
+margin-top: 16px;
+    margin-bottom: 2px;
+	
+}
+.rad{
+	    color: #1d2129;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 18px;
+    padding: 0 10px 0 3px;
+	float:left;
+	display;inline block;
+}
+.para{
+	    color: #777;
+    font-size: 13px;
+    width: 316px;	
+	
+}
+.im img{width:180px;
+		height:200px;
+		background-size:cover;
+		margin-left:40px;
+		border:2px solid red;
+}	
+.im h2{display:inline;
+font-family:arial;
+text-decoration:bold;
+} 
+.im #name{color:green;
+margin-left:20px;
+}
+.sign button{font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+	text-align: center;
+    font-size: 25px;
+    margin-left: 19%;
+    padding: 5px 69px;
+	color: white;
+	background:linear-gradient(#79bc64, #578843);
+
+}
